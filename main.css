@@ -1,3 +1,10 @@
+
+style 
+.myDiv {
+    border: 5px outset whitesmoke;
+    background-color: #086788;
+}
+
 body {
     background-color: #086788;
     font-size: larger;
